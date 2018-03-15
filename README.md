@@ -1,6 +1,12 @@
 # AWS-Lambda-Example
 
-It contains a very basic AWS Lambda example to start with. In order to run the project:
+**Prerequisite**
+
+* Understand what AWS Lambda is? [click here](https://blog.knoldus.com/2018/03/04/a-walkthrough-with-aws-lambda/#more-47871)
+
+---
+
+This project contains a very basic AWS Lambda example to start with. In order to run the project:
 
 1) Create a jar of the project
 
